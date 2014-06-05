@@ -1,9 +1,3 @@
-[submodule "wp-content/themes/reverie"]
-	path = wp-content/themes/reverie
-url=git@github.com:pixleight/reverie.git
-[submodule "wp-content/themes/intranet"]
-	path = wp-content/themes/intranet
-url=git@github.com:pixleight/reverie-child.git
 [submodule "wp-content/themes/tbs-intranet"]
 	path = wp-content/themes/tbs-intranet
 	url = git@github.com:pixleight/wordpress-bootstrap.git
